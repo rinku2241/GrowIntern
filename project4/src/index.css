@@ -43,3 +43,29 @@ header {
    word-wrap: break-word;
  }
  
+ .note1 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  border: none;
+ }
+ form{
+  align-items: center;
+ }
+ 
+ .note2{
+  font-size: 1.1em;
+  margin-bottom: 6px;
+  border: none;
+ }
+ .note2{
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding:10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+  align-items: center;
+ }
